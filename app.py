@@ -1,3 +1,5 @@
+# You will need an key from huggingface to access this
+
 # Set the Hugging Face Hub API toek as an eviroment variable 
 import os 
 from secret_api_keys import huggingface_api_key

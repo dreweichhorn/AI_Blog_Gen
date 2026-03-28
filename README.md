@@ -21,9 +21,6 @@ Before running the app, ensure you have:
   Python 3.9+ installed.
 
 ⚙️ Installation & Setup
-Clone the repository:
-  git clone https://github.com/your-username/AI_Blog_Gen.git
-  cd AI_Blog_Gen
 
 Create a virtual environment:
   python -m venv .venv
